@@ -20,6 +20,7 @@ I used the Convolutional Neural Network `CNN` instead of using HOG (Can be modif
 Make sure you have the following modules installed.
 
 `pip`
+`cmake`
 `numpy`
 `dlib`
 `opencv-python`
