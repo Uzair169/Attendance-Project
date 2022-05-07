@@ -33,3 +33,12 @@ pip3 install numpy dlib opencv-python face_recognition
 
 ## Creating a Standalone Executable
 If you want to create a standalone executable that can run without the need to install `python` or `face_recognition`, you can use [PyInstaller](https://github.com/pyinstaller/pyinstaller).
+
+## Tutorial:
+
+Edit the path in `Attendance.py` 
+```bash
+path = 'Images'
+```
+
+Copy all the images required for the neural network into the `Images` folder and then run `Attendance.py`
